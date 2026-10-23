@@ -15,7 +15,7 @@
 <p align="center">
   <a href="#-quick-start">Quick start</a> ·
   <a href="#-features">Features</a> ·
-  <a href="#-hotkeys">Hotkeys</a> ·
+  <a href="#%EF%B8%8F-hotkeys">Hotkeys</a> ·
   <a href="#-configuration">Configuration</a> ·
   <a href="#-faq--troubleshooting">FAQ</a> ·
   <a href="#-roadmap">Roadmap</a> ·
