@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+env/
+*.egg-info/
+build/
+dist/
+
+# Local state, logs and secrets (never commit)
+*.log
+layout.json
+state.json
+settings.json
+app.lock
+*.lock
+.env
+.env.*
+*.token
+*token*.txt
+credentials*.json
+secrets*.json
+EdgeProfile/
+backup*/
+_backups/
+*.bak
+
+# OS / editor
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/

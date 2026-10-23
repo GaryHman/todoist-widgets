@@ -1,0 +1,5 @@
+# Todoist Widgets - pinned dependencies (Python 3.11+)
+requests==2.34.2
+keyring==25.7.0
+pywin32-ctypes==0.2.3; sys_platform == "win32"
+PySide6-Essentials==6.12.0
